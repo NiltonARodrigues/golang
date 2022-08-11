@@ -8,10 +8,13 @@ https://hub.docker.com/r/narrlg/golang_study
 
 ## Comando via docker
 Para baixar a imagem pelo docker, digite:
-**docker pull narrlg/golang_study**
+**docker pull narrlg/codeeducation**
+
+Para executar a imagem, digite:
+**docker run --rm narrlg/codeeducation** 
 
 ### Versão Docker:
-**sha256**:358ff9d3ca141d7696b28143b661fe8d20f29683d3cc2e1616a433ba5d3b8256
+**sha256**:c649883bf9000a22dd4ae2316864c705745d4340401f0e9586e9df4f9aaf1d68
 
 
 # Fontes
